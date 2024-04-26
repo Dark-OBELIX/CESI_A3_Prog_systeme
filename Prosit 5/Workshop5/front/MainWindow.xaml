@@ -1,0 +1,18 @@
+﻿<Window x:Class="front.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:front"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Process Id" HorizontalAlignment="Left" Margin="579,23,0,0" VerticalAlignment="Top"/>
+        <Button Name="btn1" Click="OnClick1" Content="Lancer le processus" HorizontalAlignment="Left" Margin="579,313,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.439,-0.259" Height="60" Width="136"/>
+        <Button Name="btn2" Click="OnClick1" Content="Arreter le processus" HorizontalAlignment="Left" Margin="579,157,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.439,-0.259" Height="60" Width="136"/>
+        <Label Content="Process name" HorizontalAlignment="Left" Margin="584,82,0,0" VerticalAlignment="Top"/>
+        <DataGrid Name="processGrid" AutoGenerateColumns="True" Margin="50,55,344,22" />
+        <Label Content="Liste de tout les processus actifs :" HorizontalAlignment="Left" Margin="50,18,0,0" VerticalAlignment="Top" Width="207"/>
+
+    </Grid>
+</Window>

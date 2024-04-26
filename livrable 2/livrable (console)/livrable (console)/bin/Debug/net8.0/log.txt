@@ -1,0 +1,265 @@
+Sauvegarde : Sauvegarde test
+Source : C:\Archive\sources
+Destination : C:\Archive\CESI test
+Date/Heure : 27/11/2023 14:42:01
+
+Sauvegarde : Sauvegarde test
+Source : C:\Archive\sources
+Destination : C:\Archive\CESI test
+Date/Heure : 27/11/2023 14:55:22
+Size: 3
+
+Sauvegarde : Sauvegarde test
+Source : C:\Archive\sources
+Destination : C:\Archive\CESI test
+Date/Heure : 27/11/2023 15:02:11
+Size (bytes): 3
+
+Sauvegarde : Sauvegarde test
+Source : C:\Archive\sources
+Destination : C:\Archive\CESI test
+Date/Heure : 27/11/2023 15:02:19
+Size (bytes): 3
+
+Sauvegarde : Sauvegarde test
+Source : C:\Archive\sources
+Destination : C:\Archive\CESI test
+Date/Heure : 27/11/2023 15:02:36
+Size (bytes): 3
+
+Sauvegarde : Sauvegarde test
+Source : C:\Archive\sources
+Destination : C:\Archive\CESI test
+Date/Heure : 27/11/2023 15:27:59
+Size (bytes): 3
+
+Sauvegarde : Sauvegarde test log
+Source : C:\Archive\sources
+Destination : C:\Archive\CESI test
+Date/Heure : 27/11/2023 16:29:38
+Size (bytes): 3
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:40
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:40
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+
+Sauvegarde : SUCCEDED
+Statut : 
+Error : sauvegarde test fichier log
+Source : C:\Users\Hugo\Desktop\dossier fichier
+Destination : C:\Users\Hugo\Desktop\source
+Date/Heure : 27/11/2023 20:48:45
+Size (bytes): 6269443254
+

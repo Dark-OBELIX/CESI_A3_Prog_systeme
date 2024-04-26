@@ -1,0 +1,36 @@
+using System;
+
+Console.WriteLine("Entrez une chaîne de caractères :");
+string user_string_input = Console.ReadLine();
+string var_retour = ""; 
+
+for (int i = 0; i < user_string_input.Length; i++)
+{
+    char c = user_string_input[i];
+    string caractereModifie = ""; 
+
+    if (char.IsUpper(c))
+    {
+        caractereModifie = c.ToString();
+        Console.WriteLine($"C'est une majuscule, on la touche pas : {caractereModifie}");
+    }
+    else if (char.IsLower(c))
+    {
+        caractereModifie = c.ToString().ToUpper();
+        Console.WriteLine($"C'est une minuscule, on la passe en majuscule : {caractereModifie}");
+    }
+    else if (char.IsDigit(c))
+    {
+        Console.WriteLine($"C'est un chiffre, on ne touche pas : {c}");
+        caractereModifie = c.ToString();
+    }
+    else
+    {
+        Console.WriteLine($"C'est un autre caractère, on ne touche pas : {c}");
+        caractereModifie = c.ToString();
+    }
+
+    var_retour += caractereModifie; 
+}
+
+Console.WriteLine("Résultat final : " + var_retour);

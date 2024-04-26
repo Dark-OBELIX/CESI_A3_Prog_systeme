@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\livrable (console)\\livrable (console).csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\classe\\classe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\classe\\classe.csproj",
+        "projectName": "classe",
+        "projectPath": "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\classe\\classe.csproj",
+        "packagesPath": "C:\\Users\\hugol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\classe\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\livrable (console)\\livrable (console).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\livrable (console)\\livrable (console).csproj",
+        "projectName": "livrable (console)",
+        "projectPath": "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\livrable (console)\\livrable (console).csproj",
+        "packagesPath": "C:\\Users\\hugol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\livrable (console)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hugol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\classe\\classe.csproj": {
+                "projectPath": "C:\\Users\\hugol\\OneDrive\\Documents\\CESI 3\\Projet 2\\livrable 2\\livrable (console)\\classe\\classe.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

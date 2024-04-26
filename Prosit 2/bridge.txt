@@ -1,0 +1,63 @@
+using System;
+
+// Abstraction
+abstract class Forme
+{
+    protected IDessinateur Dessinateur;
+    public Forme(IDessinateur dessinateur)
+    {
+        Dessinateur = dessinateur;
+    }
+    public abstract void Dessiner();
+}
+
+// Implémentation
+interface IDessinateur
+{
+    void Dessiner();
+}
+
+// Implémentation concrète 1
+class DessinateurSimple : IDessinateur
+{
+    public void Dessiner()
+    {
+        Console.WriteLine("Dessiner de manière simple");
+    }
+}
+
+// Implémentation concrète 2
+class DessinateurAvance : IDessinateur
+{
+    public void Dessiner()
+    {
+        Console.WriteLine("Dessiner de manière avancée");
+    }
+}
+
+// Abstraction raffinée
+class Cercle : Forme
+{
+    public Cercle(IDessinateur dessinateur) : base(dessinateur)
+    {
+    }
+
+    public override void Dessiner()
+    {
+        Dessinateur.Dessiner();
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        // Utilisation du Bridge
+        IDessinateur dessinateurSimple = new DessinateurSimple();
+        IDessinateur dessinateurAvance = new DessinateurAvance();
+
+        Forme cercleSimple = new Cercle(dessinateurSimple);
+
+        cercleSimple.Dessiner();
+    }
+}

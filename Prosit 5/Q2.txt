@@ -1,0 +1,59 @@
+using System;
+using System.Diagnostics;
+
+class Program
+{
+    static void Main()
+    {
+        Process pere_process = new Process();
+
+        try
+        {
+            pere_process.StartInfo.FileName = "explorer.exe";
+
+            pere_process.Start();
+            
+            Console.WriteLine("Processus parent : Le processus 'explorer.exe' a été lancé.");
+            Console.WriteLine("pere_process.ProcessName : " + pere_process.ProcessName);
+            Console.WriteLine("pere_process.Id : " + pere_process.Id);
+
+            pere_process.WaitForExit();
+        }
+
+        catch (Exception ex)
+        {
+            Console.WriteLine("Une erreur s'est produite : " + ex.Message);
+        }
+        //finally{process.Close();}
+    }
+}
+
+using System;
+using System.Diagnostics;
+
+class Program
+{
+    static void Main()
+    {
+        Process fils_process = new Process();
+
+        try
+        {
+            fils_process.StartInfo.FileName = "notepad.exe";
+
+            fils_process.StartInfo.WindowStyle = ProcessWindowStyle.Normal;
+
+            fils_process.Start();
+
+            Console.WriteLine("Processus parent : Le processus 'notepad.exe' a été lancé avec des paramètres.");
+            Console.WriteLine("fils_process.ProcessName : " + fils_process.ProcessName);
+            Console.WriteLine("fils_process.Id : " + fils_process.Id);
+
+            fils_process.WaitForExit();
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Une erreur s'est produite : " + ex.Message);
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "workshop_console/1.0.0": {
+        "dependencies": {
+          "workshop": "1.0.0"
+        },
+        "runtime": {
+          "workshop_console.dll": {}
+        }
+      },
+      "workshop/1.0.0": {
+        "runtime": {
+          "workshop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "workshop_console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "workshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

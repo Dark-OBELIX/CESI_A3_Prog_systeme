@@ -1,0 +1,7 @@
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (.NET Framework 4.8)\livrable (.NET Framework 4.8)\obj\Debug\livrable (.NET Framework 4.8).csproj.AssemblyReference.cache
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (.NET Framework 4.8)\livrable (.NET Framework 4.8)\obj\Debug\livrable (.NET Framework 4.8).csproj.CoreCompileInputs.cache
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (.NET Framework 4.8)\livrable (.NET Framework 4.8)\bin\Debug\livrable (.NET Framework 4.8).exe.config
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (.NET Framework 4.8)\livrable (.NET Framework 4.8)\bin\Debug\livrable (.NET Framework 4.8).exe
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (.NET Framework 4.8)\livrable (.NET Framework 4.8)\bin\Debug\livrable (.NET Framework 4.8).pdb
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (.NET Framework 4.8)\livrable (.NET Framework 4.8)\obj\Debug\livrable (.NET Framework 4.8).exe
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (.NET Framework 4.8)\livrable (.NET Framework 4.8)\obj\Debug\livrable (.NET Framework 4.8).pdb

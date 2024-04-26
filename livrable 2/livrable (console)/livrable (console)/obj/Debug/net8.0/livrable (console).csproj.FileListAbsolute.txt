@@ -1,0 +1,36 @@
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).exe
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).deps.json
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).runtimeconfig.json
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).dll
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).pdb
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).AssemblyInfoInputs.cache
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).AssemblyInfo.cs
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.CoreCompileInputs.cache
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).dll
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\refint\livrable (console).dll
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).pdb
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).genruntimeconfig.cache
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\ref\livrable (console).dll
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.AssemblyReference.cache
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\classe.dll
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\classe.pdb
+C:\Users\hugol\OneDrive\Documents\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.CopyComplete
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).exe
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).deps.json
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).runtimeconfig.json
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).dll
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\livrable (console).pdb
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\classe.dll
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\bin\Debug\net8.0\classe.pdb
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.AssemblyReference.cache
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).GeneratedMSBuildEditorConfig.editorconfig
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).AssemblyInfoInputs.cache
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).AssemblyInfo.cs
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.CoreCompileInputs.cache
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).csproj.CopyComplete
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).dll
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\refint\livrable (console).dll
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).pdb
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\livrable (console).genruntimeconfig.cache
+D:\CESI 3\Projet 2\livrable 2\livrable (console)\livrable (console)\obj\Debug\net8.0\ref\livrable (console).dll

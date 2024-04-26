@@ -1,0 +1,100 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+class Program
+{
+    class Machine
+    {
+        public string Nom { get; set; }
+        public int Cout { get; set; }
+        public int Duree { get; set; }
+
+        public void Afficher_nom()
+        {
+            Console.Write($"{Nom} - ");
+        }
+
+        public void Afficher()
+        {
+            Console.WriteLine($"Nom: {Nom}, Coût: {Cout} E, Durée: {Duree} min");
+        }
+    }
+
+    static void Main()
+    {
+        // Déclaration et initialisation d'une MMU 
+        List<Machine> memoireMachines = new List<Machine>();
+
+        Machine[] machinesDisponibles = new Machine[]
+        {
+            new Machine { Nom = "U42", Cout = 10, Duree = 10 },
+            new Machine { Nom = "U64", Cout = 30, Duree = 20 },
+            new Machine { Nom = "U128", Cout = 100, Duree = 60 }
+        };
+
+        Console.WriteLine("Liste des machines disponibles");
+
+        foreach (var machine in machinesDisponibles)
+        {
+            machine.Afficher();
+        }
+
+        bool travailEnCours = true;
+        List<string> nomsDesMachinesProduites = new List<string>();
+
+        // Boucle de simulation
+        while (travailEnCours)
+        {
+            Console.WriteLine("Veuillez entrer le nom de la machine dont vous avez besoin ou tapez STOP si vous avez fini la simulation :");
+            string userInput = Console.ReadLine();
+
+            if (userInput.ToUpper() == "STOP")
+            {
+                travailEnCours = false;
+                Console.WriteLine("Fin de la simulation.");
+            }
+            else
+            {
+                // Recherche de la machine dans la mémoire (MMU)
+                Machine machineTrouvee = memoireMachines.Find(machine => machine.Nom == userInput);
+
+                if (machineTrouvee != null)
+                {
+                    nomsDesMachinesProduites.Add(userInput);
+                    Console.WriteLine($"Machine '{userInput}' ajoutée à la liste de production depuis la mémoire.");
+                }
+                else
+                {
+                    // Recherche de la machine parmi les machines disponibles
+                    Machine machineDisponible = machinesDisponibles.FirstOrDefault(machine => machine.Nom == userInput);
+
+                    if (machineDisponible != null)
+                    {
+                        // Ajout de la machine à la mémoire (MMU)
+                        memoireMachines.Add(machineDisponible);
+                        nomsDesMachinesProduites.Add(userInput);
+                        Console.WriteLine($"Machine '{userInput}' ajoutée à la liste de production depuis les machines disponibles.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Machine non trouvée. Veuillez entrer un nom de machine valide.");
+                    }
+                }
+            }
+        }
+
+        // Affichage du bilan
+        Console.WriteLine("Bilan de production :");
+
+        foreach (var nomMachine in nomsDesMachinesProduites)
+        {
+            Console.Write($"{nomMachine} - ");
+        }
+
+        int coutTotal = memoireMachines.Sum(m => m.Cout);
+        int dureeTotale = memoireMachines.Sum(m => m.Duree);
+
+        Console.WriteLine($"\nCoût total : {coutTotal} E, Durée totale : {dureeTotale} min");
+    }
+}
