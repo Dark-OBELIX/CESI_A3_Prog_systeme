@@ -1,0 +1,310 @@
+29/02/2024 13:45:48 - 29/02/2024 13:45:48;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 13:45:51 - 29/02/2024 13:45:51;;0;HUGO;78;Nombre secret généré : 78
+29/02/2024 13:45:51 - 29/02/2024 13:45:51;;0;HUGO;78;Le joueur vient de se connecter. Il doit deviner le nombre 78
+29/02/2024 13:45:51 - 29/02/2024 13:45:51;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:45:53 - HUGO a proposé : 12
+29/02/2024 13:45:53 - HUGO a proposé : 12
+29/02/2024 13:45:53 - 29/02/2024 13:45:53;;0;HUGO;78;message envoyé :12 est trop bas.. Essayez encore ?
+29/02/2024 13:45:53 - 29/02/2024 13:45:53;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:02 - 29/02/2024 13:46:02;;0;HUGO;78;message envoyé :Entrée invalide. Veuillez saisir un nombre.
+
+29/02/2024 13:46:02 - 29/02/2024 13:46:02;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:12 - 29/02/2024 13:46:12;;0;HUGO;78;HUGO : nombre de non reponse 1
+29/02/2024 13:46:12 - 29/02/2024 13:46:12;;0;HUGO;78;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:46:12 - 29/02/2024 13:46:12;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:20 - HUGO a proposé : 42
+29/02/2024 13:46:20 - HUGO a proposé : 42
+29/02/2024 13:46:20 - 29/02/2024 13:46:20;;0;HUGO;78;message envoyé :42 est trop bas.. Essayez encore ?
+29/02/2024 13:46:20 - 29/02/2024 13:46:20;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:23 - HUGO a proposé : 65
+29/02/2024 13:46:23 - HUGO a proposé : 65
+29/02/2024 13:46:23 - 29/02/2024 13:46:23;;0;HUGO;78;message envoyé :65 est trop bas.. Essayez encore ?
+29/02/2024 13:46:23 - 29/02/2024 13:46:23;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:27 - HUGO a proposé : 1024
+29/02/2024 13:46:27 - HUGO a proposé : 1024
+29/02/2024 13:46:27 - 29/02/2024 13:46:27;;0;HUGO;78;message envoyé :1024 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:27 - 29/02/2024 13:46:27;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:29 - HUGO a proposé : 500
+29/02/2024 13:46:29 - HUGO a proposé : 500
+29/02/2024 13:46:29 - 29/02/2024 13:46:29;;0;HUGO;78;message envoyé :500 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:29 - 29/02/2024 13:46:29;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:31 - HUGO a proposé : 400
+29/02/2024 13:46:31 - HUGO a proposé : 400
+29/02/2024 13:46:31 - 29/02/2024 13:46:31;;0;HUGO;78;message envoyé :400 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:31 - 29/02/2024 13:46:31;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:33 - HUGO a proposé : 300
+29/02/2024 13:46:33 - HUGO a proposé : 300
+29/02/2024 13:46:33 - 29/02/2024 13:46:33;;0;HUGO;78;message envoyé :300 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:33 - 29/02/2024 13:46:33;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:35 - HUGO a proposé : 200
+29/02/2024 13:46:35 - HUGO a proposé : 200
+29/02/2024 13:46:35 - 29/02/2024 13:46:35;;0;HUGO;78;message envoyé :200 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:35 - 29/02/2024 13:46:35;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:37 - HUGO a proposé : 150
+29/02/2024 13:46:37 - HUGO a proposé : 150
+29/02/2024 13:46:37 - 29/02/2024 13:46:37;;0;HUGO;78;message envoyé :150 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:37 - 29/02/2024 13:46:37;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:40 - HUGO a proposé : 100
+29/02/2024 13:46:40 - HUGO a proposé : 100
+29/02/2024 13:46:40 - 29/02/2024 13:46:40;;0;HUGO;78;message envoyé :100 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:40 - 29/02/2024 13:46:40;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:44 - HUGO a proposé : 80
+29/02/2024 13:46:44 - HUGO a proposé : 80
+29/02/2024 13:46:44 - 29/02/2024 13:46:44;;0;HUGO;78;message envoyé :80 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:44 - 29/02/2024 13:46:44;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:46 - HUGO a proposé : 60
+29/02/2024 13:46:46 - HUGO a proposé : 60
+29/02/2024 13:46:46 - 29/02/2024 13:46:46;;0;HUGO;78;message envoyé :60 est trop bas.. Essayez encore ?
+29/02/2024 13:46:46 - 29/02/2024 13:46:46;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:49 - HUGO a proposé : 70
+29/02/2024 13:46:49 - HUGO a proposé : 70
+29/02/2024 13:46:49 - 29/02/2024 13:46:49;;0;HUGO;78;message envoyé :70 est trop bas.. Essayez encore ?
+29/02/2024 13:46:49 - 29/02/2024 13:46:49;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:54 - HUGO a proposé : 75
+29/02/2024 13:46:54 - HUGO a proposé : 75
+29/02/2024 13:46:54 - 29/02/2024 13:46:54;;0;HUGO;78;message envoyé :75 est trop bas.. Essayez encore ?
+29/02/2024 13:46:54 - 29/02/2024 13:46:54;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:56 - HUGO a proposé : 79
+29/02/2024 13:46:56 - HUGO a proposé : 79
+29/02/2024 13:46:56 - 29/02/2024 13:46:56;;0;HUGO;78;message envoyé :79 est Trop haut.. Essayez encore ?
+29/02/2024 13:46:56 - 29/02/2024 13:46:56;;0;HUGO;78;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:46:57 - HUGO a proposé : 78
+29/02/2024 13:46:57 - HUGO a proposé : 78
+29/02/2024 13:46:57 - 29/02/2024 13:46:57;;0;HUGO;78;message envoyé :Félicitations!HUGO  Vous avez deviné le bon nombre.78
+29/02/2024 13:46:57 - 29/02/2024 13:46:57;;0;HUGO;78;message envoyé :Fin de la partie
+29/02/2024 13:46:57 - 29/02/2024 13:46:57;;0;HUGO;78;Déconnexion du joueur.Il y a 0 connecté
+29/02/2024 13:51:05 - 29/02/2024 13:51:05;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 13:51:12 - 29/02/2024 13:51:12;;0;HUGO;34;Nombre secret généré : 34
+29/02/2024 13:51:12 - 29/02/2024 13:51:12;;0;HUGO;34;Le joueur vient de se connecter. Il doit deviner le nombre 34
+29/02/2024 13:51:12 - 29/02/2024 13:51:12;;0;HUGO;34;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:51:15 - 29/02/2024 13:51:15;;0;HUGO;34;message envoyé :Entrée invalide. Veuillez saisir un nombre.
+
+29/02/2024 13:51:15 - 29/02/2024 13:51:15;;0;HUGO;34;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;HUGO : nombre de non reponse 1
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;HUGO : nombre de non reponse 2
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;HUGO : nombre de non reponse 3
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;HUGO : nombre de non reponse 4
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;HUGO : nombre de non reponse 5
+29/02/2024 13:51:20 - 29/02/2024 13:51:20;;0;HUGO;34;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:51:21 - 29/02/2024 13:51:21;;0;HUGO;34;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:51:21 - 29/02/2024 13:51:21;;0;HUGO;34;Impossible d'envoyer :Fin de la partie
+29/02/2024 13:51:21 - 29/02/2024 13:51:21;;0;HUGO;34;Déconnexion du joueur.Il y a 0 connecté
+29/02/2024 13:51:45 - 29/02/2024 13:51:45;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 13:51:50 - 29/02/2024 13:51:50;;0;HUGO;98;Nombre secret généré : 98
+29/02/2024 13:51:50 - 29/02/2024 13:51:50;;0;HUGO;98;Le joueur vient de se connecter. Il doit deviner le nombre 98
+29/02/2024 13:51:50 - 29/02/2024 13:51:50;;0;HUGO;98;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:51:54 - 29/02/2024 13:51:54;;0;HUGO;98;message envoyé :Entrée invalide. Veuillez saisir un nombre.
+
+29/02/2024 13:51:54 - 29/02/2024 13:51:54;;0;HUGO;98;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;HUGO : nombre de non reponse 1
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;HUGO : nombre de non reponse 2
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;HUGO : nombre de non reponse 3
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;HUGO : nombre de non reponse 4
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;HUGO : nombre de non reponse 5
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Impossible d'envoyer :Fin de la partie
+29/02/2024 13:52:00 - 29/02/2024 13:52:00;;0;HUGO;98;Déconnexion du joueur.Il y a 0 connecté
+29/02/2024 13:53:57 - 29/02/2024 13:53:57;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 13:53:59 - 29/02/2024 13:53:59;;0;?;29;Nombre secret généré : 29
+29/02/2024 13:53:59 - 29/02/2024 13:53:59;;0;?;29;Le joueur vient de se connecter. Il doit deviner le nombre 29
+29/02/2024 13:53:59 - 29/02/2024 13:53:59;;0;?;29;message envoyé :?, Veuillez proposer un nombre : 
+29/02/2024 13:54:02 - 29/02/2024 13:54:02;;0;?;29;message envoyé :Entrée invalide. Veuillez saisir un nombre.
+
+29/02/2024 13:54:02 - 29/02/2024 13:54:02;;0;?;29;message envoyé :?, Veuillez proposer un nombre : 
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;? : nombre de non reponse 1
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Impossible d'envoyer :?, Veuillez proposer un nombre : 
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;? : nombre de non reponse 2
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Impossible d'envoyer :?, Veuillez proposer un nombre : 
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;? : nombre de non reponse 3
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Impossible d'envoyer :?, Veuillez proposer un nombre : 
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;? : nombre de non reponse 4
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Impossible d'envoyer :?, Veuillez proposer un nombre : 
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;? : nombre de non reponse 5
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Impossible d'envoyer :?, Veuillez proposer un nombre : 
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Impossible d'envoyer :Fin de la partie
+29/02/2024 13:54:08 - 29/02/2024 13:54:08;;0;?;29;Déconnexion du joueur.Il y a 0 connecté
+29/02/2024 14:07:40 - 29/02/2024 14:07:40;;0;Player1;0;message envoyé :
+29/02/2024 14:07:40 - 29/02/2024 14:07:40;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 14:07:44 - 29/02/2024 14:07:44;;0;HUGO;32;Nombre secret généré : 32
+29/02/2024 14:07:44 - 29/02/2024 14:07:44;;0;HUGO;32;Le joueur vient de se connecter. Il doit deviner le nombre 32
+29/02/2024 14:07:44 - 29/02/2024 14:07:44;;0;HUGO;32;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:07:54 - 29/02/2024 14:07:54;;0;HUGO;32;HUGO : nombre de non reponse 1
+29/02/2024 14:07:54 - 29/02/2024 14:07:54;;0;HUGO;32;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 14:07:54 - 29/02/2024 14:07:54;;0;HUGO;32;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:07:55 - HUGO a proposé : 50
+29/02/2024 14:07:55 - HUGO a proposé : 50
+29/02/2024 14:07:55 - 29/02/2024 14:07:55;;0;HUGO;32;message envoyé :50 est Trop haut.. Essayez encore ?
+29/02/2024 14:07:55 - 29/02/2024 14:07:55;;0;HUGO;32;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:08:00 - 29/02/2024 14:08:00;;0;HUGO;32;message envoyé :Entrée invalide. Veuillez saisir un nombre.
+
+29/02/2024 14:08:00 - 29/02/2024 14:08:00;;0;HUGO;32;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:08:03 - HUGO a proposé : 25
+29/02/2024 14:08:03 - HUGO a proposé : 25
+29/02/2024 14:08:03 - 29/02/2024 14:08:03;;0;HUGO;32;message envoyé :25 est trop bas.. Essayez encore ?
+29/02/2024 14:08:03 - 29/02/2024 14:08:03;;0;HUGO;32;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:08:07 - HUGO a proposé : 40
+29/02/2024 14:08:07 - HUGO a proposé : 40
+29/02/2024 14:08:07 - 29/02/2024 14:08:07;;0;HUGO;32;message envoyé :40 est Trop haut.. Essayez encore ?
+29/02/2024 14:08:07 - 29/02/2024 14:08:07;;0;HUGO;32;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:08:17 - 29/02/2024 14:08:17;;0;HUGO;32;HUGO : nombre de non reponse 2
+29/02/2024 14:08:17 - 29/02/2024 14:08:17;;0;HUGO;32;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 14:08:17 - 29/02/2024 14:08:17;;0;HUGO;32;message envoyé :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:08:24 - 29/02/2024 14:08:24;;0;HUGO;32;HUGO : nombre de non reponse 3
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Impossible d'envoyer :
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;HUGO : nombre de non reponse 4
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Player2 : nombre de non reponse 1
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Pas de réponse du client 1.
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;HUGO : nombre de non reponse 5
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Player2 : nombre de non reponse 2
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Pas de réponse du client 2.
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;Impossible d'envoyer :HUGO, Veuillez proposer un nombre : 
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Player2 : nombre de non reponse 3
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Pas de réponse du client 3.
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;Impossible d'envoyer :Fin de la partie
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;HUGO;32;Déconnexion du joueur.Il y a 1 connecté
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Player2 : nombre de non reponse 4
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Pas de réponse du client 4.
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Player2 : nombre de non reponse 5
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Pas de réponse du client 5.
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:09:21 - 29/02/2024 14:09:21;;0;Player2;0;Déconnexion du joueur.Il y a 0 connecté
+29/02/2024 14:09:37 - 29/02/2024 14:09:37;;0;Player1;0;message envoyé :
+29/02/2024 14:09:37 - 29/02/2024 14:09:37;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 14:09:43 - 29/02/2024 14:09:43;;0;hugO;57;Nombre secret généré : 57
+29/02/2024 14:09:43 - 29/02/2024 14:09:43;;0;hugO;57;Le joueur vient de se connecter. Il doit deviner le nombre 57
+29/02/2024 14:09:43 - 29/02/2024 14:09:43;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:09:45 - hugO a proposé : 12
+29/02/2024 14:09:45 - hugO a proposé : 12
+29/02/2024 14:09:45 - 29/02/2024 14:09:45;;0;hugO;57;message envoyé :12 est trop bas.. Essayez encore ?
+29/02/2024 14:09:45 - 29/02/2024 14:09:45;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:09:55 - 29/02/2024 14:09:55;;0;hugO;57;hugO : nombre de non reponse 1
+29/02/2024 14:09:55 - 29/02/2024 14:09:55;;0;hugO;57;Pas de réponse du client 0. Relance de la demande.
+29/02/2024 14:09:55 - 29/02/2024 14:09:55;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:09:56 - hugO a proposé : 65
+29/02/2024 14:09:56 - hugO a proposé : 65
+29/02/2024 14:09:56 - 29/02/2024 14:09:56;;0;hugO;57;message envoyé :65 est Trop haut.. Essayez encore ?
+29/02/2024 14:09:56 - 29/02/2024 14:09:56;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:01 - hugO a proposé : 80
+29/02/2024 14:10:01 - hugO a proposé : 80
+29/02/2024 14:10:01 - 29/02/2024 14:10:01;;0;hugO;57;message envoyé :80 est Trop haut.. Essayez encore ?
+29/02/2024 14:10:01 - 29/02/2024 14:10:01;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:03 - hugO a proposé : 70
+29/02/2024 14:10:03 - hugO a proposé : 70
+29/02/2024 14:10:03 - 29/02/2024 14:10:03;;0;hugO;57;message envoyé :70 est Trop haut.. Essayez encore ?
+29/02/2024 14:10:03 - 29/02/2024 14:10:03;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:05 - hugO a proposé : 65
+29/02/2024 14:10:05 - hugO a proposé : 65
+29/02/2024 14:10:05 - 29/02/2024 14:10:05;;0;hugO;57;message envoyé :65 est Trop haut.. Essayez encore ?
+29/02/2024 14:10:05 - 29/02/2024 14:10:05;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:08 - hugO a proposé : 63
+29/02/2024 14:10:08 - hugO a proposé : 63
+29/02/2024 14:10:08 - 29/02/2024 14:10:08;;0;hugO;57;message envoyé :63 est Trop haut.. Essayez encore ?
+29/02/2024 14:10:08 - 29/02/2024 14:10:08;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:09 - hugO a proposé : 62
+29/02/2024 14:10:09 - hugO a proposé : 62
+29/02/2024 14:10:09 - 29/02/2024 14:10:09;;0;hugO;57;message envoyé :62 est Trop haut.. Essayez encore ?
+29/02/2024 14:10:09 - 29/02/2024 14:10:09;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:11 - hugO a proposé : 61
+29/02/2024 14:10:11 - hugO a proposé : 61
+29/02/2024 14:10:11 - 29/02/2024 14:10:11;;0;hugO;57;message envoyé :61 est Trop haut.. Essayez encore ?
+29/02/2024 14:10:11 - 29/02/2024 14:10:11;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:13 - hugO a proposé : 60
+29/02/2024 14:10:13 - hugO a proposé : 60
+29/02/2024 14:10:13 - 29/02/2024 14:10:13;;0;hugO;57;message envoyé :60 est Trop haut.. Essayez encore ?
+29/02/2024 14:10:13 - 29/02/2024 14:10:13;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:16 - hugO a proposé : 56
+29/02/2024 14:10:16 - hugO a proposé : 56
+29/02/2024 14:10:16 - 29/02/2024 14:10:16;;0;hugO;57;message envoyé :56 est trop bas.. Essayez encore ?
+29/02/2024 14:10:16 - 29/02/2024 14:10:16;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:19 - hugO a proposé : 58
+29/02/2024 14:10:19 - hugO a proposé : 58
+29/02/2024 14:10:19 - 29/02/2024 14:10:19;;0;hugO;57;message envoyé :58 est Trop haut.. Essayez encore ?
+29/02/2024 14:10:19 - 29/02/2024 14:10:19;;0;hugO;57;message envoyé :hugO, Veuillez proposer un nombre : 
+29/02/2024 14:10:21 - hugO a proposé : 57
+29/02/2024 14:10:21 - hugO a proposé : 57
+29/02/2024 14:10:21 - 29/02/2024 14:10:21;;0;hugO;57;message envoyé :Félicitations!hugO  Vous avez deviné le bon nombre.57
+29/02/2024 14:10:21 - 29/02/2024 14:10:21;;0;hugO;57;message envoyé :Fin de la partie
+29/02/2024 14:10:21 - 29/02/2024 14:10:21;;0;hugO;57;Déconnexion du joueur.Il y a 0 connecté
+29/02/2024 14:15:29 - 29/02/2024 14:15:29;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Player1 : nombre de non reponse 1
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Pas de réponse du client 1.
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Player1 : nombre de non reponse 2
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Pas de réponse du client 2.
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Player1 : nombre de non reponse 3
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Pas de réponse du client 3.
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Player1 : nombre de non reponse 4
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Pas de réponse du client 4.
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Player1 : nombre de non reponse 5
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Pas de réponse du client 5.
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:15:36 - 29/02/2024 14:15:36;;0;Player1;0;Déconnexion du joueur.Il y a 0 connecté
+29/02/2024 14:16:16 - 29/02/2024 14:16:16;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Player1 : nombre de non reponse 1
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Pas de réponse du client 1.
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Player1 : nombre de non reponse 2
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Pas de réponse du client 2.
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Player1 : nombre de non reponse 3
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Pas de réponse du client 3.
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Player1 : nombre de non reponse 4
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Pas de réponse du client 4.
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Player1 : nombre de non reponse 5
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Pas de réponse du client 5.
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:16:22 - 29/02/2024 14:16:22;;0;Player1;0;Déconnexion du joueur.Il y a 0 connecté
+29/02/2024 14:17:23 - 29/02/2024 14:17:23;;0;Player1;0;message envoyé :Quel est votre pseudo ?
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Player1 : nombre de non reponse 1
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Pas de réponse du client 1.
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Player1 : nombre de non reponse 2
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Pas de réponse du client 2.
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Player1 : nombre de non reponse 3
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Pas de réponse du client 3.
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Player1 : nombre de non reponse 4
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Pas de réponse du client 4.
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Player1 : nombre de non reponse 5
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Pas de réponse du client 5.
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Impossible d'envoyer :Quel est votre pseudo ?
+29/02/2024 14:17:28 - 29/02/2024 14:17:28;;0;Player1;0;Déconnexion du joueur.Il y a 0 connecté

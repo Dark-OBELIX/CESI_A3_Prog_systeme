@@ -1,0 +1,14 @@
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\bin\Debug\net8.0\ClientFindNumber.exe
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\bin\Debug\net8.0\ClientFindNumber.deps.json
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\bin\Debug\net8.0\ClientFindNumber.runtimeconfig.json
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\bin\Debug\net8.0\ClientFindNumber.dll
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\bin\Debug\net8.0\ClientFindNumber.pdb
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\ClientFindNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\ClientFindNumber.AssemblyInfoInputs.cache
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\ClientFindNumber.AssemblyInfo.cs
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\ClientFindNumber.csproj.CoreCompileInputs.cache
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\ClientFindNumber.dll
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\refint\ClientFindNumber.dll
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\ClientFindNumber.pdb
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\ClientFindNumber.genruntimeconfig.cache
+C:\Users\hugol\OneDrive\Desktop\EtudeDeCasSujet2\ClientFindNumber\obj\Debug\net8.0\ref\ClientFindNumber.dll
